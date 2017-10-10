@@ -1,0 +1,27 @@
+@import 'base/variables';
+
+@import 'base/normalize';
+@import 'base/global';
+
+
+//layout
+
+@import "layouts/header";
+@import "layouts/menu";
+@import "layouts/footer";
+
+
+
+//blocks
+
+
+
+
+// Import Components
+// @import 'components/header';
+
+// Import Layouts
+// @import 'layouts/home';
+
+// Import Plugins
+// @import 'plugins/plugin';
